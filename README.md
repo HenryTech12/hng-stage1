@@ -223,3 +223,5 @@ The API returns standard HTTP response codes:
 | `404 Not Found`             | No matching results      |
 | `500 Internal Server Error` | Unexpected backend error |
 
+Stage 1
+
