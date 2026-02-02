@@ -1,6 +1,8 @@
 # 🧠 String Analyzer API
 
+
 The **String Analyzer API** is a Django REST Framework (DRF) project that allows users to analyze strings and store their computed properties — such as whether they are palindromes, their length, character frequency, and more.
+
 It also supports **natural language-based filtering**, letting users query data using plain English phrases.
 
 ---
