@@ -17,7 +17,6 @@ It also supports **natural language-based filtering**, letting users query data 
 * 🛠️ Built on **Django REST Framework (DRF)** for clean and robust RESTful endpoints
 
 ---
-
 ## 🧩 Tech Stack
 
 * **Backend:** Django 5+, Django REST Framework
